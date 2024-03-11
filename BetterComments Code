@@ -1,0 +1,102 @@
+{
+    "editor.stickyScroll.enabled": true,
+    "workbench.preferredHighContrastColorTheme": "Kimbie Dark",
+    "workbench.preferredLightColorTheme": "Monokai",
+    "workbench.preferredHighContrastLightColorTheme": "Default Dark+",
+    "workbench.preferredDarkColorTheme": "Default Light+",
+    "workbench.editor.decorations.colors": false,
+    "editor.fontFamily": "'Anonymous Pro','Fira Code' ,Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.accessibilitySupport": "on",
+    "better-comments.tags": [
+        
+
+
+
+
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": true
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": true
+        },
+        {
+            "tag": "&",
+            "color": "#02f2e2",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": true
+        },
+        {
+            "tag": "%",
+            "color": "#f2de02",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": true
+        },
+        {
+            "tag": "$",
+            "color": "#F202DA",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": true
+        },
+        {
+            "tag": "@",
+            "color": "#6e02f2",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": true
+        },
+        {
+            "tag": "todo",
+            "color": "#f27e02",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": true
+        },
+        {
+            "tag": "*",
+            "color": "#0DFF82",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": true
+        }
+    ],
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "August - Night Owl (Darker)",
+    "task.quickOpen.showAll": true,
+    "screencastMode.keyboardOptions": {
+        "showCommandGroups": true
+    },
+    "python.createEnvironment.contentButton": "show",
+    "workbench.editor.enablePreview": false,
+    "grunt.autoDetect": "on",
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true
+}
